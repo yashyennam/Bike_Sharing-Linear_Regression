@@ -53,9 +53,14 @@ Based on various meteorological surveys and people's styles, the service provide
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
+## Acknowledgements and Refrences
 Give credit here.
 - This project was part of Assignment for Post Graduate Diploma in ML and AI, IIIT - Banglore
+- geeksforgeeks.org
+- stackoverflow.com
+- kaggle.com
+- upgrad.com
+- wikipedia.com
 
 
 ## Contact
