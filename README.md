@@ -60,7 +60,7 @@ Give credit here.
 
 ## Contact
 Created by [@yashyennam] - feel free to contact me!
-OR You can drop me a [mail](yashyennam@gmail.com)
+OR You can drop me a mail on yashyennam@gmail.com 
 
 
 <!-- Optional -->
